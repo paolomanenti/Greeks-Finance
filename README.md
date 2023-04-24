@@ -1,2 +1,4 @@
 # Greeks-Finance
 Greeks computation and 3-dimensional plots.
+# INTRO
+* Risk management is one of the main activity of a financial institution that sells an option to a client in the over-the-counter markets (OTC). If it occurs that one option is traded on an exchange or in the OTC market and it is the same sold by the financial institution, a risk- neutral exposure can be obtained if the institution buys again the same option (Sinclair E., 2013 [11]). The problem happens when the option has been modified by the client and the institution will not be able to hedge its position anymore or simply it will be more difficult. The Greeks present an alternative approach to this problem. Each Greek letter represents a particular measure of a different risk dimension in an option position and the aim of a trader is to manage the Greeks so that all risks are considered acceptable.
